@@ -40,3 +40,25 @@ Adaptador de LAN inal mbrica Wi-Fi:
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.85
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+---------------------------------------------------------------------------
+Soriano Baccarelli Lucas 16:06
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::7276:5024:45b9:88e2%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.2
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::8e1d:9dce:be31:7636%16
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :

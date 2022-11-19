@@ -62,3 +62,37 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
+
+---------------------------------------------------------------------------
+Gauna Tomas Agustin 17:17
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::fca9:54be:2606:eba0%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.11
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::4167:81dd:9a80:7215%15
+   Dirección IPv4 de configuración automática: 169.254.114.21
+   Máscara de subred . . . . . . . . . . . . : 255.255.0.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Conexión de red Bluetooth 4:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2001:0:2877:7aa:30aa:3c32:4576:3849
+   Vínculo: dirección IPv6 local. . . : fe80::30aa:3c32:4576:3849%18
+   Puerta de enlace predeterminada . . . . . :

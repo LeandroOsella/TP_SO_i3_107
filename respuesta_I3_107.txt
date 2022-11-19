@@ -1,4 +1,4 @@
-Leandro Ezequiel Osella
+﻿Leandro Ezequiel Osella
 Lucas Soriano Baccarelli
 Tomas Agustin Gauna
 
@@ -32,3 +32,7 @@ git push origin Osella
 
 
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git checkout Osella
+git add .
+git commit -m "Pushea Alfa"
+git push -u origin Osella

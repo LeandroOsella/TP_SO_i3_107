@@ -18,6 +18,17 @@ git add y git commit
 git push origin main (para subir los archivos al repositorio)
 
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No
+
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+El unico problema que teniamos era conflictos  con el archivo datos.txt a la hora de hacer el primer merge
+desde Soriano a main.
+
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git checkout Osella
+git add beta.txt
+git commit -m "Gamma modifica beta.txt"
+git push origin Osella
+
+
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?

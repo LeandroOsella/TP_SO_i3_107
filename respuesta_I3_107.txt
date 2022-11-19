@@ -1,0 +1,23 @@
+Leandro Ezequiel Osella
+Lucas Soriano Baccarelli
+Tomas Agustin Gauna
+
+a-¿Como queda El master después de estos cambios?
+
+El master quedo con los archivos CPUAlfa, CPUBeta, CPUGamma, el readme, beta.txt, datos.txt y respuesta.txt.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+Si
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+git checkout main (para pararme sobre la rama en la cual queria queria hacer el merge)
+git merge Soriano (para que los archivos de la rama Soriano pasaran a la rama main)
+git add y git commit
+git push origin main (para subir los archivos al repositorio)
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
